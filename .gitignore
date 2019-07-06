@@ -1,0 +1,6 @@
+terraform.tfvars
+aws_keys.tf
+variables.tf
+**/.terraform/
+*.backup
+*.tfstate
